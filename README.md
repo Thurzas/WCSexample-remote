@@ -1,4 +1,4 @@
-# WCSexample-remote
+# WCSexample-LOCAL
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam viverra nunc nec est volutpat tempor. Quisque et venenatis mi. Quisque vestibulum quis elit in pharetra. Morbi iaculis nec mi non dapibus. Nullam pharetra, neque condimentum condimentum venenatis, ante nunc feugiat purus, quis lobortis neque diam et metus. Aliquam lectus diam, viverra ut commodo a, sagittis nec massa. Fusce et sapien lacinia, semper sem vitae, euismod erat. Phasellus nec viverra leo. Vivamus viverra rhoncus neque. Proin hendrerit maximus rhoncus. Curabitur faucibus nunc a velit pretium finibus. Vestibulum porta, orci at commodo consequat, neque ante tincidunt sem, non mollis nibh dolor vel mi. Pellentesque purus nibh, sollicitudin eu eleifend ut, faucibus sit amet tellus. Etiam dapibus enim nec eros vestibulum consectetur at convallis lectus. Vestibulum eget interdum lacus. Pellentesque id elementum augue.
 
